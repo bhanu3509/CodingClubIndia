@@ -1,0 +1,105 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------
+1. Sum of Digits        -    You're given an integer N. Write a program to calculate the sum of all the digits of N.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2. Find Remainder       -    The first line contains an integer T, the total number of test cases. Then T lines follow, 
+			     each line contains two Integers A and B.
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+3. Number Mirror        -    Write a program that accepts a number, n, and outputs the same.
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+4. First and Last Digit -    If Give an integer N . Write a program to obtain the sum of the first and last digits of this number.
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+5. Add Two Numbers	-    Program is very simple, Given two integers A and B, write a program to add these two numbers.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+6. Reverse The Number   -    Given an Integer N, write a program to reverse it.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+7. Life, the Universe,  -    Your program is to use the brute-force approach in order to find the Answer to Life, the Universe, and Everything. 
+   and Everything 	     More precisely... rewrite small numbers from input to output. Stop processing input after reading in the number 42.
+			     All numbers at input are integers of one or two digits.
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+8. Number of Odd and    -   Given a sequence of numbers, find the absolute difference between the number of odd numbers and number of even 
+   Even Numbers		    numbers in a given sequence.
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+9. Marbles 		-   Rohit dreams he is in a shop with an infinite amount of marbles. He is allowed to select n marbles. There are marbles 
+of k different colors. From each color there are also infinitely many marbles. Rohit wants to have at least one marble of each color, but still 
+there are a lot of possibilities for his selection. In his effort to make a decision he wakes up. Now he asks you how many possibilities for his 
+selection he would have had. Assume that marbles of equal color can't be distinguished, and the order of the marbles is irrelevant
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+10. 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+11. ATM 		-   Pooja would like to withdraw X $US from an ATM. The cash machine will only accept the transaction if X is a multiple 
+			    of 5, and Pooja's account balance has enough cash to perform the withdrawal transaction (including bank charges). For
+			    each successful withdrawal the bank charges 0.50 $US. Calculate Pooja's account balance after an attempted transaction.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+12. Enormous Input Test -  The purpose of this problem is to verify whether the method you are using to read input data is sufficiently fast to 
+			   handle problems branded with the enormous Input/Output warning. You are expected to be able to process at least 2.5MB
+		           of input data per second at runtime.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+13. Factorial   	-  There is a single positive integer T on the first line of input (equal to about 100000). It stands for the number of numbers to follow. 
+			   Then there are T lines, each containing exactly one positive integer number N, 1 <= N <= 1000000000.
+			   Find number of trailing zeros.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+14. Sum of Digits	-  Sum of digits of number.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+15. Turbo Sort		-  Given the list of numbers, you are to sort them in non decreasing order.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+16. Ciel and A-B Problem - A waiter does A-B wrong, find the ways it is done. Any faulty answer is accepted.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+17. Lucky Four 		 - Find the number of 4 in a given number.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+18. The Lead Game 	 - The player with maximum lead
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+19. Finding Square Roots - Find square root using inbuilt functions.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+20. Packaging Cupcakes	 - For each test case, output the package size that will maximize the number of leftover cupcakes. If multiple package sizes will 
+			   			   result in the same number of leftover cupcakes, print the largest such size.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+21. Holes in the text    -  Chef wrote some text on a piece of paper and now he wants to know how many holes are in the text. What is a hole? If you think of 
+						    the paper as the plane and a letter as a curve on the plane, then each letter divides the plane into regions. For example letters 
+						    "A", "D", "O", "P", "R" divide the plane into two regions so we say these letters each have one hole. Similarly, letter "B" has
+						    two holes and letters such as "C", "E", "F", "K" have no holes. We say that the number of holes in the text is equal to the total 
+							number of holes in the letters of the text. Help Chef to determine how many holes are in the text.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+22. Second Largest 		 -  Three numbers A, B and C are the inputs. Write a program to find second largest among them.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+23. Ciel and Receipt	 -  Tomya like a positive integer p, and now she wants to get a receipt of Ciel's restaurant whose total price is exactly p. The 
+							current menus of Ciel's restaurant are shown the following table.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+24. Small Factorial		 -  Write a program to find the factorial value of any number entered by the user.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+25. Chef and Remissness  -  The first line of the input contains an integer T denoting the number of test cases. The description of the T test cases follows.
+							Each test case consists of a line containing two space separated integers A and B.
+
+							For each test case, output a single line containing two space separated integers, the minimum and maximum number of times Chef
+							could have entered into the office building.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+26. Helping Chef 		 -  Write a program, which takes an integer N and if the number is less than 10 then display "Thanks for helping Chef!" otherwise 
+							print "-1".
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+27. Racing Horses		 -  There are N horses in the stable. The skill of the horse i is represented by an integer S[i]. The Chef needs to pick 2 horses for 
+							the race such that the difference in their skills is minimum. This way, he would be able to host a very interesting race. Your 
+							task is to help him do this and report the minimum difference that is possible between 2 horses in the race.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+28. Chef And Operators 	 -  For each line of input produce one line of output. This line contains any one of the relational operators
+							'<' , '>' , '='.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+29. Uncle Johny			 -  The first line of the input contains an integer T denoting the number of test cases. The description of T test cases follows.
+							The first line of each test case contains one integer N denoting the number of songs in Vlad's playlist. The second line contains 
+							N space-separated integers A1, A2, ..., AN denoting the lenghts of Vlad's songs. The third line contains the only integer 
+							K - the position of "Uncle Johny" in the initial playlist.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+30. Valid Triangles		 -  Print whether given angles result a triangle or not.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+31. Smallest Numbers of  -  Consider a currency system in which there are notes of six denominations, namely, Rs. 1, Rs. 2, Rs. 5, Rs. 10, Rs. 50, Rs. 100.
+Notes						If the sum of Rs. N is input, write a program to computer smallest number of notes that will combine to give Rs. N.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+32. 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
